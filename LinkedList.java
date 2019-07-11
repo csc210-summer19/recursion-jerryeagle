@@ -117,13 +117,14 @@ public class LinkedList<E extends Comparable<E>> {
 		// with first as an argument. It must be recursive, no loop allowed.
 
 		return;
-
 	}
 
 	// Duplicate el next to each occurrence of el in this list.
 	public void duplicateAll(E el) {
 		// This public method requires a call to a private helper method
 		// with first as an argument. It must be recursive, no loop allowed.
+		
+		return;
 	}
 
 }
